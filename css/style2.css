@@ -57,7 +57,7 @@ button:hover {
 
 #imagenContainer img {
     max-width: 100%;
-    max-height: 200px; /* ajusta este valor según tus preferencias */
+    max-height: 200px; 
     width: auto;
     height: auto;
     border-radius: 5px;
